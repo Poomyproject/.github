@@ -1,12 +1,29 @@
-## Hi there 👋
+![Group 1261152588](https://github.com/user-attachments/assets/cbc4c8fe-6d1e-4319-8c8f-abc93d191262)
 
-<!--
+# 🍀POOMY
+소품(poom) + Lucky : 소품샵 찾아주는 앱, 푸미입니다. 
 
-**Here are some ideas to get you started:**
+장소, 분위기 기반 소품샵 필터를 통해 사용자의 취향을 반영한 맞춤 소품샵을 추천해줍니다.  
+소품샵 리뷰와 에디터의 뉴스레터를 통해 생생한 소품샵 후기들을 보실 수 있습니다. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+푸미(Poomy)와 함께 일상에 특별함을 더해보세요!
+
+## 상세설명
+
+
+## TEAM
+
+
+| **PM**           | **DESIGNER**     | **FRONTEND**      | **BACKEND**      |
+|-------------------|------------------|-------------------|------------------|
+| **안선민**        | **이해강**        | **심지영**         | **장서현**        |
+| **양새봄**        | **김민지**        | **정혜주**         | **안나영**        |
+
+
+
+![Group 1261152589](https://github.com/user-attachments/assets/7d358998-99dd-405a-97de-6a76d1beeb5b)
+
+
+
+
+
